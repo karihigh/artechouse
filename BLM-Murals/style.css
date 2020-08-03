@@ -1,0 +1,8 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  margin: 2em;
+}
+
+#mapid {
+  height: 400px;
+}
